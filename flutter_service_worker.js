@@ -7,14 +7,14 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/imagens/logo_revoltis_40anos_p.png": "1d5f96b6ec96a92cfc3158d2e8a9751e",
-"assets/NOTICES": "61bcfc08ff38b01afa3ba59d41508f9d",
+"assets/NOTICES": "254a1793d274d649ef2dd21b1ccad2e5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "dd2fc635ff5d796c211c0468556469e8",
-"/": "dd2fc635ff5d796c211c0468556469e8",
-"main.dart.js": "f1e078692f1ebb01e073bbe005de5862",
+"index.html": "e352bfeaef7c64479a1eb0c4d9d1e19e",
+"/": "e352bfeaef7c64479a1eb0c4d9d1e19e",
+"main.dart.js": "80974f77c39f4f39520b3a99ae2dd73a",
 "manifest.json": "04abae4774fffd9bb88bc7f6b2cfdc10",
 "version.json": "1b0ccdd830e6adfe2269097994486671"
 };
